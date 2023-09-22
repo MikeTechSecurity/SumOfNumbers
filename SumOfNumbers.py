@@ -5,7 +5,7 @@
 sum = 0
 
 # Provide a prompt to the user
-userInput = int(input("Enter a positive number or a negative number to stop: "))
+userInput = int(input("Enter a positive number: "))
 
 # Continue the loop as long as the user enters non-negative numbers
 while userInput >= 0:
